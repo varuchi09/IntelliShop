@@ -1,7 +1,7 @@
 
 ---
 
-E-Commerce Customer Behavior Analysis and Recommendation System
+IntelliShop : E-Commerce Customer Behavior Analytics and Recommendation System
 
 This project is an end-to-end Big Data system designed to analyze large-scale e-commerce customer data and generate personalized product recommendations.
 
@@ -86,37 +86,6 @@ The system analyzes their past purchases and behavior, compares it with similar 
 This improves user experience and increases the chances of purchase.
 
 ---
-
-Project Status
-
-This project is currently in the development stage.
-
-Future improvements may include:
-
-Real-time data processing using streaming tools
-Hybrid recommendation systems
-Deployment on cloud platforms
-Advanced user segmentation
-
----
-
-Members:
-
-* Prabgun Mokha
-* Varuchi Maurya
-
----
-
-References
-
-Datasets
-Kaggle E-commerce Datasets
-
-Technologies
-
-Apache Spark Documentation
-
-Scikit-learn Documentation
 
 
 
